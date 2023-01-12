@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vanguarddatabase-b1058",
+  "private_key_id": "df9e2f40e5067ec410f7232087afd1058a7a8fc9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCWblnsfU+naqde\nn1zfzq9fpDMh1SqaGx2ZqasI0Zhv7bjBI6GsCQrI/W44x9nFlZGqmEtG/sGWsfj8\nud+8MyKGcNGWQdFCZBALB5Q8NBE1aBrs++ShdcK9PF54qAuVZg+3EyeMimi2T3MZ\nGdPXbZ50K5DH1+lcWAXA2kSztvwb3Rxt+syrG27/t9hT6FJ1RmuIs8z7UV7FKj0u\nQ2ldx8YAxF1UyUFDyXSvuOIvHm/pRwI0CpQ3k1kyRASHZAuYfsQVpfTpatXTX5+a\nGEQ5Nt17z5cRcqE0KyY9SB2YglhjxUi4ftaH4WyCndaW/PUG6oxtXWjxk44CxCYx\nu4HkhVi7AgMBAAECggEABXca40GmPDHexMxLZoIu0u23QdppwtGLYMLOSPK8dAyR\n8splnEdz0duLPprcKZaGhUklKv4kcGIk5qGmJENDVNkSdEAN5ziVcKEk3I8TtPoE\nSGnaY5dQrOldkUqhqRrdJUyX2j5JEZ6PUvEiRihgYl4W03vfqZA1HU2Qw2q5fBWd\nKRU3bdTepEn0E6VP7VxUijzrAW8vmrz5kjgRSH8Ux57lVaqdkdU6j21ml3NtqWJd\nyWAPPIVirjSZcOHoZTscrznFDAZs74gceq13Rr3Qazu0BRzIFFLojB7m4gVEL2CR\nCrwD1hH+OO4hw4cI4PaR2XReb/GO7UQ6/016l3kRaQKBgQDG7/kdFBK222QB1pO6\nUuYKV7SnfD3xmvsotQd9kkk1cHnzd9LEo+6NOf/OR/8KRtdazrt1WJea8NIdEcAm\n9Saih0dQJAkRCHBXCSywLXMH89upwsJ63lXpSO09cwRN70+TecG2AtorhoFzEdZp\nypVCbHF6QddUg85maJKnEKb9hwKBgQDBlIt3/4Jg7YlzL6kmM1YtF3c3vI41J/ik\nhtH2RWFlzbffGsp8k4Mglrwxl/zDoBFXpTDzKAdVXLlxB9O1bD2VUQkjO+xdCucc\nZiJPUdtc/5tpnipE928AokVDm9p77LEDRUqPJXacYht0ONWlk+l4BMTOuFZPxV4D\nW3CwJfD4LQKBgQC42YLAYkaBYpoqmxfpqd3W/mf+uJNWTIvT52Jua99aqIiokk5m\nKW0gDSSEqKFzCyBQYIgPIaK9dcfG+xdxG5oqq0i4TsOd8BlyxjOgAJtCaHVT6ISN\nZsqtWfYXgygcwqFOh3RXi47toq3mHkz9QCAw+FL5JvTOsyq2PbUHR5HjQQKBgQCO\n3H+pSYoA2ozr0yq0JILeuEile6Q/moYnddASPdXJee7O2kjBc2P8cwHkX9SM0t65\nnhHoAYyX9NxujGYzp/Qy9CEYPasMZ3V0QfPkMfcARSt+4Nk1GJ51C0yuvqCZgG6K\niWKjDfThKI42UZNqpSRSDMLqBKS+LlxZgexCM14I6QKBgQCclXDAIDQ7HkhdkZ5b\nBMamRlbeagPo543wwGWpGnnt+dP6Dl2cOI3UUN+e8JZ4d5oJqkW4EqRD/CJKiPaV\nVwjldV/UmAxFm1GVSt94YcEucMXFOlOIblwQsz5x+4iohpKWF2tTLNEbmRKHpfaX\n29naU4s86g7hSKFifLekcCMfDw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-93mxy@vanguarddatabase-b1058.iam.gserviceaccount.com",
+  "client_id": "111352470835496882143",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-93mxy%40vanguarddatabase-b1058.iam.gserviceaccount.com"
+}
